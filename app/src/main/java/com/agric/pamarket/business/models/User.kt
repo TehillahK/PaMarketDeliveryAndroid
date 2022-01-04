@@ -1,4 +1,4 @@
-package com.agric.pamarket.models
+package com.agric.pamarket.business.models
 
 data class User(
     val uID:String,
