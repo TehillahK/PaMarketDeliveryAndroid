@@ -1,7 +1,7 @@
 package com.agric.pamarket.business
 
-import com.agric.pamarket.business.models.Location
-import com.agric.pamarket.business.models.Order
+import com.agric.pamarket.models.Location
+import com.agric.pamarket.models.Order
 
 class AccessOrders() {
     private val orders:ArrayList<Order> = ArrayList<Order>()

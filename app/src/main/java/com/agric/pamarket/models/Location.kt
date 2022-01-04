@@ -1,4 +1,4 @@
-package com.agric.pamarket.business.models
+package com.agric.pamarket.models
 
 data class Location(
     val address:String ,
